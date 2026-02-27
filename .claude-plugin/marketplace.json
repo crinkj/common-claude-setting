@@ -1,0 +1,36 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "crinkj-plugins",
+  "description": "Personal Claude Code plugins for frontend development, design systems, and AI agent team workflows",
+  "owner": {
+    "name": "crinkj",
+    "email": "jcrinkey89120@gmail.com"
+  },
+  "metadata": {
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "frontend-skills",
+      "source": "./plugins/frontend-skills",
+      "description": "Frontend design skills: production-grade UI design, web guidelines, Tailwind CSS, Next.js App Router patterns, and skill finder",
+      "version": "1.0.0",
+      "author": {
+        "name": "crinkj"
+      },
+      "category": "frontend",
+      "tags": ["frontend", "design", "tailwindcss", "nextjs", "react", "ui"]
+    },
+    {
+      "name": "dev-agents",
+      "source": "./plugins/dev-agents",
+      "description": "3-agent development team: team-lead (Opus), product-designer (Haiku), fullstack-engineer (Sonnet) with agent-team orchestration",
+      "version": "1.0.0",
+      "author": {
+        "name": "crinkj"
+      },
+      "category": "agents",
+      "tags": ["agents", "team", "fullstack", "nextjs", "typescript", "orchestration"]
+    }
+  ]
+}

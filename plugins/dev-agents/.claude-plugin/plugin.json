@@ -1,0 +1,10 @@
+{
+  "name": "dev-agents",
+  "description": "Development agent team: team-lead, product-designer, fullstack-engineer with agent-team orchestration skill",
+  "version": "1.0.0",
+  "author": {
+    "name": "crinkj",
+    "email": "jcrinkey89120@gmail.com"
+  },
+  "keywords": ["agents", "team", "fullstack", "nextjs", "typescript"]
+}
