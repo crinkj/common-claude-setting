@@ -7,7 +7,8 @@
     "email": "jcrinkey89120@gmail.com"
   },
   "metadata": {
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "description": "Personal Claude Code plugins for frontend development, design systems, and AI agent team workflows"
   },
   "plugins": [
     {
