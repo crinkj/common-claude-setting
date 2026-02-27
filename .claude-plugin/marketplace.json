@@ -7,8 +7,8 @@
     "email": "jcrinkey89120@gmail.com"
   },
   "metadata": {
-    "version": "1.0.0",
-    "description": "Personal Claude Code plugins for frontend development, design systems, and AI agent team workflows"
+    "version": "1.1.0",
+    "description": "Personal Claude Code plugins for frontend development, design systems, AI agent team workflows, and context engineering"
   },
   "plugins": [
     {
@@ -32,6 +32,18 @@
       },
       "category": "agents",
       "tags": ["agents", "team", "fullstack", "nextjs", "typescript", "orchestration"]
+    },
+    {
+      "name": "context-engineering",
+      "source": "./plugins/context-engineering",
+      "description": "13 context engineering skills: context fundamentals/compression/optimization/degradation, multi-agent patterns, memory systems, tool design, filesystem context, hosted agents, evaluation, advanced-evaluation, project development, BDI mental states",
+      "version": "1.1.0",
+      "author": {
+        "name": "Murat Can Koylan",
+        "homepage": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering"
+      },
+      "category": "ai-engineering",
+      "tags": ["context", "agents", "memory", "evaluation", "multi-agent", "llm", "tool-design", "bdi"]
     }
   ]
 }

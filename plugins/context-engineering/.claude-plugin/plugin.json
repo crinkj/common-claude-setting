@@ -1,0 +1,11 @@
+{
+  "name": "context-engineering",
+  "description": "13 context engineering skills by Murat Can Koylan: context fundamentals, compression, optimization, multi-agent patterns, memory systems, tool design, evaluation, and more",
+  "version": "1.1.0",
+  "author": {
+    "name": "Murat Can Koylan",
+    "email": ""
+  },
+  "repository": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+  "keywords": ["context", "agents", "memory", "evaluation", "multi-agent", "llm", "tool-design"]
+}
