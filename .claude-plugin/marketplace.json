@@ -14,7 +14,7 @@
     {
       "name": "frontend-skills",
       "source": "./plugins/frontend-skills",
-      "description": "Frontend design skills: production-grade UI design, web guidelines, Tailwind CSS, Next.js App Router patterns, and skill finder",
+      "description": "Unified /frontend skill: build UI, review design, Tailwind layouts, Next.js App Router — all in one command",
       "version": "1.0.0",
       "author": {
         "name": "crinkj"

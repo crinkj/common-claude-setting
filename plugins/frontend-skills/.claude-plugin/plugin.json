@@ -1,6 +1,6 @@
 {
   "name": "frontend-skills",
-  "description": "Frontend development skills: design systems, Tailwind CSS layouts, Next.js App Router patterns, and skill discovery",
+  "description": "Unified frontend skill: build UI, review design, Tailwind CSS layouts, Next.js App Router patterns — all in one /frontend command",
   "version": "1.0.0",
   "author": {
     "name": "crinkj",
